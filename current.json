@@ -1,6 +1,11 @@
 {
   "name" : "rackie",
-  "version" : "1.0.0"
+  "version" : "1.0.0",
+  "notes" : "This is the latest version of Rackie, I fixed a few things which can be found here",
+  "docker": {
+    "frontendVersion":"1.0.0",
+    "backendVersion":"1.0.0"
+  }
 }
 
 
