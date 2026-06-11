@@ -1,0 +1,6 @@
+[
+  {
+    "containerName" : "jellyfin",
+    "imageName" : "lscr.io/linuxserver/jellyfin:latest"
+  }
+]
